@@ -13,6 +13,7 @@ export const Post = () => {
             <h2>Dev1</h2>
             <h2>Dev1</h2>
             <h2>Dev1</h2>
+            <h2>Dev1</h2>
         </div>
     )
 }
