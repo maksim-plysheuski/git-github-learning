@@ -14,6 +14,7 @@ export const Post = () => {
             <h2>dev2</h2>
             <h2>dev2</h2>
             <h2>dev2</h2>
+            <h2>dev2</h2>
         </div>
     )
 }
