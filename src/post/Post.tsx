@@ -22,6 +22,7 @@ export const Post = () => {
             <h2>dev2</h2>
             <h2>main</h2>
             <h2>main</h2>
+            <h2>main2</h2>
         </div>
     )
 }
