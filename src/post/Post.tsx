@@ -27,6 +27,7 @@ export const Post = () => {
             <h2>main4</h2>
             <h2>dev_2</h2>
             <h2>dev_2 2</h2>
+            <h2>dev_2 3</h2>
         </div>
     )
 }
